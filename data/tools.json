@@ -153,6 +153,15 @@
     "stage": "入门"
   },
   {
+    "category": "浏览器自动化",
+    "name": "Agent QA",
+    "url": "https://github.com/vostride/agent-qa",
+    "summary_zh": "用自然语言编写和运行 Web/移动端测试，保存测试记忆，并在界面变化时自动修复流程；提供 CLI、Dashboard、MCP 和 Agent Skills。",
+    "language": "TypeScript",
+    "open_source": false,
+    "stage": "进阶"
+  },
+  {
     "category": "安全与评估",
     "name": "Inspect AI",
     "url": "https://github.com/UKGovernmentBEIS/inspect_ai",

@@ -71,6 +71,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | --- | --- | --- | --- | --- |
 | [browser-use](https://github.com/browser-use/browser-use) | 让 AI agent 控制浏览器完成网页任务的开源项目。 | Python | 是 | 入门 |
 | [Playwright](https://github.com/microsoft/playwright) | 可靠的浏览器自动化和端到端测试框架，是许多 browser agent 的底层能力。 | TypeScript | 是 | 入门 |
+| [Agent QA](https://github.com/vostride/agent-qa) | 用自然语言编写和运行 Web/移动端测试，保存测试记忆，并在界面变化时自动修复流程；提供 CLI、Dashboard、MCP 和 Agent Skills。 | TypeScript | 否 | 进阶 |
 
 ### 安全与评估
 
