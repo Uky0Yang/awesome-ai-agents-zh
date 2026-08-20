@@ -117,6 +117,15 @@
     "stage": "入门"
   },
   {
+    "category": "MCP 生态",
+    "name": "SandBase CLI",
+    "url": "https://github.com/sandbaseai/cli",
+    "summary_zh": "开源命令行与本地 MCP 桥接工具，可让多种 AI 编程客户端发现并调用统一目录中的模型和 API。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "入门"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",
