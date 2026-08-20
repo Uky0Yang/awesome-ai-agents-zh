@@ -81,6 +81,15 @@
     "stage": "进阶"
   },
   {
+    "category": "Agent 框架",
+    "name": "Orkas",
+    "url": "https://github.com/Orkas-AI/Orkas",
+    "summary_zh": "MIT 开源的本地优先多 agent 桌面应用，通过 Commander 协调专业 agent 并行或串行完成复杂任务。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "MCP 生态",
     "name": "Model Context Protocol",
     "url": "https://modelcontextprotocol.io/",
