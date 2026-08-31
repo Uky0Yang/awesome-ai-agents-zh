@@ -117,6 +117,15 @@
     "stage": "入门"
   },
   {
+    "category": "MCP 生态",
+    "name": "SandBase Harness",
+    "url": "https://github.com/sandbaseai/sandbase-harness",
+    "summary_zh": "本地优先、自托管的 AI agent runtime 与 MCP bridge，提供 sessions、memory、credentials、audit/replay 和本地 Console。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",
