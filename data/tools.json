@@ -90,6 +90,15 @@
     "stage": "进阶"
   },
   {
+    "category": "Agent 框架",
+    "name": "YYLO CLI",
+    "url": "https://github.com/yylo-dev/yylo",
+    "summary_zh": "面向 coding agents 的本地编排 CLI，提供任务生命周期、隔离 worktree、合并流程和可审查运行证据。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "MCP 生态",
     "name": "Model Context Protocol",
     "url": "https://modelcontextprotocol.io/",

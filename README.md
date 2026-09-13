@@ -63,6 +63,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [CrewAI](https://github.com/crewAIInc/crewAI) | 面向角色和任务的 agent 编排框架，适合快速搭建多 agent demo 和业务流程。 | Python | 是 | 入门 |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 开源软件开发 agent 平台，目标是让 agent 像开发者一样修改代码和运行命令。 | Python / TypeScript | 是 | 进阶 |
 | [Orkas](https://github.com/Orkas-AI/Orkas) | MIT 开源的本地优先多 agent 桌面应用，通过 Commander 协调专业 agent 并行或串行完成复杂任务。 | TypeScript | 是 | 进阶 |
+| [YYLO CLI](https://github.com/yylo-dev/yylo) | 面向 coding agents 的本地编排 CLI，提供任务生命周期、隔离 worktree、合并流程和可审查运行证据。 | TypeScript | 是 | 进阶 |
 
 ### MCP 生态
 
