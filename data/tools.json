@@ -153,6 +153,15 @@
     "stage": "进阶"
   },
   {
+    "category": "MCP 生态",
+    "name": "LogNorm",
+    "url": "https://lognorm.com",
+    "summary_zh": "托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。",
+    "language": "N/A",
+    "open_source": false,
+    "stage": "入门"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",

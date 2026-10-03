@@ -79,6 +79,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) | 社区维护的 MCP server 清单，适合查找现成工具连接器。 | Markdown | 是 | 入门 |
 | [FastMCP](https://github.com/jlowin/fastmcp) | Python MCP server 开发框架，适合快速把内部工具包装成 agent 可调用能力。 | Python | 是 | 入门 |
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先、自托管的 AI agent runtime 与 MCP bridge，提供 sessions、memory、credentials、audit/replay 和本地 Console。 | TypeScript | 是 | 进阶 |
+| [LogNorm](https://lognorm.com) | 托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。 | N/A | 否 | 入门 |
 
 ### RAG 与知识库
 
