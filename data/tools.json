@@ -45,6 +45,15 @@
     "stage": "入门"
   },
   {
+    "category": "AI 编程助手",
+    "name": "Orbi",
+    "url": "https://github.com/orbi-build/orbi",
+    "summary_zh": "基于 Pi 的自托管开源 coding agent：给 GitHub Issue 打 ai-ready 标签，它写代码、开 PR、另起会话按验收项评审，审过才合并并发版。",
+    "language": "Python",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "Agent 框架",
     "name": "LangGraph",
     "url": "https://github.com/langchain-ai/langgraph",
