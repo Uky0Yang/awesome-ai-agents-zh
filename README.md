@@ -80,6 +80,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [FastMCP](https://github.com/jlowin/fastmcp) | Python MCP server 开发框架，适合快速把内部工具包装成 agent 可调用能力。 | Python | 是 | 入门 |
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先、自托管的 AI agent runtime 与 MCP bridge，提供 sessions、memory、credentials、audit/replay 和本地 Console。 | TypeScript | 是 | 进阶 |
 | [LogNorm](https://lognorm.com) | 托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。 | N/A | 否 | 入门 |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | 把 agent 与模型之间的真实流量录成本地 trace，可离线重放和换模型对比，并提供读取 trace 的 MCP server。 | TypeScript | 是 | 进阶 |
 
 ### RAG 与知识库
 

@@ -162,6 +162,15 @@
     "stage": "入门"
   },
   {
+    "category": "MCP 生态",
+    "name": "OrcaReplay",
+    "url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+    "summary_zh": "把 agent 与模型之间的真实流量录成本地 trace，可离线重放和换模型对比，并提供读取 trace 的 MCP server。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",
