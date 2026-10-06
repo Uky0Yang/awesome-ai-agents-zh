@@ -19,7 +19,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 
 新手实操：[把一个模糊需求变成可验证的 Agent 小实验](guides/first-agent-experiment.md)。从选工具、限制权限到记录失败结果，一次只验证一个工作流。
 
-本次新增 Pydantic AI 与 Microsoft Agent Framework；[收录核验记录](guides/catalog-review-2026-09.md)保留来源和固定提交，不把文档审查写成生产验证。
+最新新增 OrcaReplay 与 LogNorm，目录共 28 项；[10 月收录核验](guides/catalog-review-2026-10.md)记录开源状态、公开入口与未验证的范围。[9 月核验记录](guides/catalog-review-2026-09.md)仍保留此前条目的固定来源。
 
 | 分类 | 适合谁 | 代表方向 |
 | --- | --- | --- |
