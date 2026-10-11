@@ -250,5 +250,14 @@
     "language": "Go",
     "open_source": true,
     "stage": "入门"
+  },
+  {
+    "category": "Agent 框架",
+    "name": "Tale",
+    "url": "https://tale.dev/",
+    "summary_zh": "面向 AI agent 协作的共享工作区，可分配任务、运行 coding harness 沙箱并审阅交付结果。",
+    "language": "N/A",
+    "open_source": false,
+    "stage": "生产"
   }
 ]
