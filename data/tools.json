@@ -171,6 +171,15 @@
     "stage": "进阶"
   },
   {
+    "category": "MCP 生态",
+    "name": "TANDIU",
+    "url": "https://tandiuai.cn",
+    "summary_zh": "TANDIU (tandiuai.cn) 是中文 AI 基础设施数据站：模型 API 牌价、GPU 租赁报价、部署成本、政府采购成交，每日更新；免费 API + MCP server（cn.tandiu/data）",
+    "language": "N/A",
+    "open_source": false,
+    "stage": "入门"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",

@@ -19,7 +19,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 
 新手实操：[把一个模糊需求变成可验证的 Agent 小实验](guides/first-agent-experiment.md)。从选工具、限制权限到记录失败结果，一次只验证一个工作流。
 
-最新新增 OrcaReplay 与 LogNorm，目录共 28 项；[10 月收录核验](guides/catalog-review-2026-10.md)记录开源状态、公开入口与未验证的范围。[9 月核验记录](guides/catalog-review-2026-09.md)仍保留此前条目的固定来源。
+最新新增 TANDIU，目录共 29 项；[10 月收录核验](guides/catalog-review-2026-10.md)记录开源状态、公开入口与未验证的范围。[9 月核验记录](guides/catalog-review-2026-09.md)仍保留此前条目的固定来源。
 
 | 分类 | 适合谁 | 代表方向 |
 | --- | --- | --- |
@@ -81,6 +81,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先、自托管的 AI agent runtime 与 MCP bridge，提供 sessions、memory、credentials、audit/replay 和本地 Console。 | TypeScript | 是 | 进阶 |
 | [LogNorm](https://lognorm.com) | 托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。 | N/A | 否 | 入门 |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | 把 agent 与模型之间的真实流量录成本地 trace，可离线重放和换模型对比，并提供读取 trace 的 MCP server。 | TypeScript | 是 | 进阶 |
+| [TANDIU](https://tandiuai.cn) | TANDIU (tandiuai.cn) 是中文 AI 基础设施数据站：模型 API 牌价、GPU 租赁报价、部署成本、政府采购成交，每日更新；免费 API + MCP server（cn.tandiu/data） | N/A | 否 | 入门 |
 
 ### RAG 与知识库
 
