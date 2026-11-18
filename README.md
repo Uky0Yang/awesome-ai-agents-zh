@@ -19,7 +19,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 
 新手实操：[把一个模糊需求变成可验证的 Agent 小实验](guides/first-agent-experiment.md)。从选工具、限制权限到记录失败结果，一次只验证一个工作流。
 
-最新新增 OrcaReplay 与 LogNorm，目录共 28 项；[10 月收录核验](guides/catalog-review-2026-10.md)记录开源状态、公开入口与未验证的范围。[9 月核验记录](guides/catalog-review-2026-09.md)仍保留此前条目的固定来源。
+最新新增 Orbi、oh-my-hermes、Doc2X MCP 与 AI Agent 实战手册，目录共 32 项；[11 月收录核验](guides/catalog-review-2026-11.md)记录固定来源、未验证的范围和未收录的原因。[10 月](guides/catalog-review-2026-10.md)与 [9 月](guides/catalog-review-2026-09.md)核验记录仍保留此前条目的固定来源。
 
 | 分类 | 适合谁 | 代表方向 |
 | --- | --- | --- |
@@ -29,6 +29,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | RAG 与知识库 | 想做知识问答和企业搜索的团队 | 文档解析、向量检索、评估 |
 | 浏览器自动化 | 想让 agent 操作网页和 SaaS 的开发者 | Web automation、Playwright、browser agents |
 | 安全与评估 | 想把 agent 放进生产环境的团队 | 权限、提示注入、测试、监控 |
+| 学习资源 | 想系统学习 agent 工程的开发者 | 中文教程、手册、可运行示例 |
 
 ## 加入中文社区
 
@@ -58,6 +59,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [Continue](https://github.com/continuedev/continue) | 开源 AI 代码助手，可连接不同模型并集成 VS Code / JetBrains。 | TypeScript | 是 | 入门 |
 | [Aider](https://github.com/Aider-AI/aider) | 命令行 AI pair programming 工具，适合在 Git 仓库内进行可审查的代码修改。 | Python | 是 | 入门 |
 | [Orbi](https://github.com/orbi-build/orbi) | 基于 Pi 的自托管开源 coding agent：给 GitHub Issue 打 ai-ready 标签，它写代码、开 PR、另起会话按验收项评审，审过才合并并发版。 | Python | 是 | 进阶 |
+| [oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | Hermes Agent 的工作流插件与技能集，提供调研、规划、代码审查和调试流程，可按任务类别配置模型；需先装好 Hermes。 | Python | 是 | 进阶 |
 
 ### Agent 框架
 
@@ -82,6 +84,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | 本地优先、自托管的 AI agent runtime 与 MCP bridge，提供 sessions、memory、credentials、audit/replay 和本地 Console。 | TypeScript | 是 | 进阶 |
 | [LogNorm](https://lognorm.com) | 托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。 | N/A | 否 | 入门 |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | 把 agent 与模型之间的真实流量录成本地 trace，可离线重放和换模型对比，并提供读取 trace 的 MCP server。 | TypeScript | 是 | 进阶 |
+| [Doc2X MCP](https://github.com/NoEdgeAI/doc2x-mcp) | MIT 开源的 stdio MCP server，把 Doc2X 的 PDF/图片解析、公式表格识别和文档导出接入 agent；需自备按量计费的 API key。 | TypeScript | 是 | 进阶 |
 
 ### RAG 与知识库
 
@@ -106,6 +109,12 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) | AI 系统评估框架，适合构建可重复的模型和 agent 评测。 | Python | 是 | 进阶 |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | LLM 应用测试和评估工具，适合回归测试、红队测试和质量对比。 | TypeScript | 是 | 入门 |
 | [Gitleaks](https://github.com/gitleaks/gitleaks) | 检测 Git 仓库中的密钥泄露，适合作为开源项目前的安全检查。 | Go | 是 | 入门 |
+
+### 学习资源
+
+| 项目 | 简介 | 语言 | 开源 | 适合阶段 |
+| --- | --- | --- | --- | --- |
+| [AI Agent 实战手册](https://github.com/Xwh630/ai-agent-handbook) | 中文 Agent 工程手册，配可运行示例，以及按任务边界、上下文、状态、恢复、权限给项目打分的 CLI；目前需从 Git 安装。 | Python | 是 | 入门 |
 
 <!-- END GENERATED -->
 

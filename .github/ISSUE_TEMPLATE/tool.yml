@@ -29,6 +29,7 @@ body:
         - RAG 与知识库
         - 浏览器自动化
         - 安全与评估
+        - 学习资源
     validations:
       required: true
   - type: textarea

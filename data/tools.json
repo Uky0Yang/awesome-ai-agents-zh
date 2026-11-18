@@ -54,6 +54,15 @@
     "stage": "进阶"
   },
   {
+    "category": "AI 编程助手",
+    "name": "oh-my-hermes",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "summary_zh": "Hermes Agent 的工作流插件与技能集，提供调研、规划、代码审查和调试流程，可按任务类别配置模型；需先装好 Hermes。",
+    "language": "Python",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "Agent 框架",
     "name": "LangGraph",
     "url": "https://github.com/langchain-ai/langgraph",
@@ -180,6 +189,15 @@
     "stage": "进阶"
   },
   {
+    "category": "MCP 生态",
+    "name": "Doc2X MCP",
+    "url": "https://github.com/NoEdgeAI/doc2x-mcp",
+    "summary_zh": "MIT 开源的 stdio MCP server，把 Doc2X 的 PDF/图片解析、公式表格识别和文档导出接入 agent；需自备按量计费的 API key。",
+    "language": "TypeScript",
+    "open_source": true,
+    "stage": "进阶"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",
@@ -257,6 +275,15 @@
     "url": "https://github.com/gitleaks/gitleaks",
     "summary_zh": "检测 Git 仓库中的密钥泄露，适合作为开源项目前的安全检查。",
     "language": "Go",
+    "open_source": true,
+    "stage": "入门"
+  },
+  {
+    "category": "学习资源",
+    "name": "AI Agent 实战手册",
+    "url": "https://github.com/Xwh630/ai-agent-handbook",
+    "summary_zh": "中文 Agent 工程手册，配可运行示例，以及按任务边界、上下文、状态、恢复、权限给项目打分的 CLI；目前需从 Git 安装。",
+    "language": "Python",
     "open_source": true,
     "stage": "入门"
   }
