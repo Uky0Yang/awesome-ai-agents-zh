@@ -57,6 +57,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [Cursor](https://www.cursor.com/) | AI-first 代码编辑器，适合日常补全、重构、解释代码和多文件编辑。 | N/A | 否 | 入门 |
 | [Continue](https://github.com/continuedev/continue) | 开源 AI 代码助手，可连接不同模型并集成 VS Code / JetBrains。 | TypeScript | 是 | 入门 |
 | [Aider](https://github.com/Aider-AI/aider) | 命令行 AI pair programming 工具，适合在 Git 仓库内进行可审查的代码修改。 | Python | 是 | 入门 |
+| [Orbi](https://github.com/orbi-build/orbi) | 基于 Pi 的自托管开源 coding agent：给 GitHub Issue 打 ai-ready 标签，它写代码、开 PR、另起会话按验收项评审，审过才合并并发版。 | Python | 是 | 进阶 |
 
 ### Agent 框架
 
