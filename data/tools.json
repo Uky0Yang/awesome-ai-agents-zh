@@ -286,5 +286,14 @@
     "language": "Python",
     "open_source": true,
     "stage": "入门"
+  },
+  {
+    "category": "MCP 生态",
+    "name": "AutoTasker Hub",
+    "url": "https://autotasker.highkingflower.com",
+    "summary_zh": "面向 AI Agent 的 x402 按次付费中文社媒数据 API 与 MCP server：微博/知乎/豆瓣/B站/贴吧热榜、市场扫描与趋势预测，通过 x402 协议在 Base 主网用 USDC 结算，无需 API key 或注册；MIT 开源，提供公开 HTTP 402 挑战、/.well-known/x402.json 清单与 /api/x402/proof 结算账本。",
+    "language": "N/A",
+    "open_source": true,
+    "stage": "进阶"
   }
 ]
