@@ -109,6 +109,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) | AI 系统评估框架，适合构建可重复的模型和 agent 评测。 | Python | 是 | 进阶 |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) | LLM 应用测试和评估工具，适合回归测试、红队测试和质量对比。 | TypeScript | 是 | 入门 |
 | [Gitleaks](https://github.com/gitleaks/gitleaks) | 检测 Git 仓库中的密钥泄露，适合作为开源项目前的安全检查。 | Go | 是 | 入门 |
+| [Folkbench 中转站检测](https://folkbench.com/evaluations/api-quality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-agents-zh) | 用自己的 API 地址和 Key 检测中转站的连通性、模型一致性、工具调用与 JSON 结构，报告仅自己可见；站内排序含合作档位和运营加权，部分数据为展示样本。 | N/A | 否 | 入门 |
 
 ### 学习资源
 

@@ -279,6 +279,15 @@
     "stage": "入门"
   },
   {
+    "category": "安全与评估",
+    "name": "Folkbench 中转站检测",
+    "url": "https://folkbench.com/evaluations/api-quality?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-agents-zh",
+    "summary_zh": "用自己的 API 地址和 Key 检测中转站的连通性、模型一致性、工具调用与 JSON 结构，报告仅自己可见；站内排序含合作档位和运营加权，部分数据为展示样本。",
+    "language": "N/A",
+    "open_source": false,
+    "stage": "入门"
+  },
+  {
     "category": "学习资源",
     "name": "AI Agent 实战手册",
     "url": "https://github.com/Xwh630/ai-agent-handbook",
