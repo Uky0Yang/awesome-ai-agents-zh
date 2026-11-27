@@ -198,6 +198,15 @@
     "stage": "进阶"
   },
   {
+    "category": "MCP 生态",
+    "name": "Agent Arena",
+    "url": "https://github.com/GeminiGeorge22/agent-flex-arena-mcp",
+    "summary_zh": "托管式 MCP 对局场：助手可玩 Colonel Blotto、霓虹激光射击、Spiked 8-Ball Pool 和免费人机策略馆，并能生成可分享的回放卡片。",
+    "language": "N/A",
+    "open_source": true,
+    "stage": "入门"
+  },
+  {
     "category": "RAG 与知识库",
     "name": "LlamaIndex",
     "url": "https://github.com/run-llama/llama_index",

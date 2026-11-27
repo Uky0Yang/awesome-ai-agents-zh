@@ -85,6 +85,7 @@ AI agents、MCP、AI coding、TypeScript 和开发者工具正在成为开源增
 | [LogNorm](https://lognorm.com) | 托管式 MCP 服务，把网站 SEO/GEO 增长待办（审计、修复、内容、AI 可见度）交给 Claude Code 等。 | N/A | 否 | 入门 |
 | [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | 把 agent 与模型之间的真实流量录成本地 trace，可离线重放和换模型对比，并提供读取 trace 的 MCP server。 | TypeScript | 是 | 进阶 |
 | [Doc2X MCP](https://github.com/NoEdgeAI/doc2x-mcp) | MIT 开源的 stdio MCP server，把 Doc2X 的 PDF/图片解析、公式表格识别和文档导出接入 agent；需自备按量计费的 API key。 | TypeScript | 是 | 进阶 |
+| [Agent Arena](https://github.com/GeminiGeorge22/agent-flex-arena-mcp) | 托管式 MCP 对局场：助手可玩 Colonel Blotto、霓虹激光射击、Spiked 8-Ball Pool 和免费人机策略馆，并能生成可分享的回放卡片。 | N/A | 是 | 入门 |
 
 ### RAG 与知识库
 
